@@ -24,11 +24,6 @@ This project includes data collection, text preprocessing, feature extraction, m
 - Streamlit  
 - Jupyter Notebook  
 
-
-### 🚀 How to Run  
-**1️⃣ Install packages**
-**2️⃣ Run Streamlit App**
-
 ---
 
 ### 🎯 Output  
