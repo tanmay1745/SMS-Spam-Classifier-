@@ -16,6 +16,8 @@ wheels/
 *.h5
 *.bin
 *.sav
+*.python-version
+*.toml
 
 # Ignore Jupyter checkpoints
 .ipynb_checkpoints/
